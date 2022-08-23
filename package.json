@@ -1,0 +1,15 @@
+{
+  "name": "salading-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MANNA CEA",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.580.0",
+    "sharp": "^0.23.3"
+  }
+}
